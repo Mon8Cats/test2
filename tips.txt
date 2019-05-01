@@ -1,0 +1,11 @@
+https://github.com/Mon8Cats/Generators.git
+git config --global --replace-all user.name "Stone Kim"
+
+rm -r directoryname
+sudo rm -r directoryname
+rm file.txt
+
+alias git_log='git log --all --decorate --oneline --graph'
+
+nano ~/.bash_profile
+
